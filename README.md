@@ -10,4 +10,4 @@ YUN
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=white"></p>
+      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C-808080?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/AndroidStudio-green?style=flat-square&logo=android&logoColor=white"> </p>
