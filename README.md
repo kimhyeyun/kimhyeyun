@@ -1,14 +1,16 @@
 # YUN 
-<a href="http://www.instagram.com/potato_yunn">
-   <img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a><br>
-<a href = "https://www.notion.so/KIMHYEYUN-e6852e813204457bb7ce07a2aa60cd4b">
-   <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-</a>
+<center> 
+   <a href="http://www.instagram.com/potato_yunn">
+      <img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+   </a><br>
+   <a href = "https://www.notion.so/KIMHYEYUN-e6852e813204457bb7ce07a2aa60cd4b">
+      <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+   </a>
+</center>
    
   
 
-## <div align="center">💻</div>
+# <div align="center">💻</div>
 
 <p align="center">
    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
