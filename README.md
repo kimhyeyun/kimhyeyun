@@ -1,4 +1,4 @@
-# YUN 
+# HYEYUN
 <center> 
    <a href="http://www.instagram.com/potato_yunn">
       <img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
@@ -11,8 +11,7 @@
    
 
   
-
-# <div align="center">💻</div>
+# <div align="center">🛠 *STACK* 🛠</div>
 
 <p align="center">
    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
