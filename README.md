@@ -1,12 +1,28 @@
-YUN 
-🐱 <a href="http://www.instagram.com/potato_yunn">
-   <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/potato_yunn"/></a><br>
-🐶 <a href="https://www.notion.so/8b522580ee8c4054850cfc2e1104fce9">
-   <img src="https://img.shields.io/badge/notion-white?style=flat-square&logo=notion&logoColor=black&link=https://www.notion.so/8b522580ee8c4054850cfc2e1104fce9"/></a>
+# YUN 
+<a href="http://www.instagram.com/potato_yunn">
+   <img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a><br>
+<a href = "https://www.notion.so/KIMHYEYUN-e6852e813204457bb7ce07a2aa60cd4b">
+   <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
    
   
 
 ## <div align="center">💻</div>
 
 <p align="center">
-      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">    <img src="https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=white">    <img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"> <br> <img src="https://img.shields.io/badge/C-808080?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/AndroidStudio-009900?style=flat-square&logo=android&logoColor=white">    <img src="https://img.shields.io/badge/Mysql-CD853F?style=flat-square&logo=mysql&logoColor=white">    <img src="https://img.shields.io/badge/Javascript-FA8072?style=flat-square&logo=javascript&logoColor=white">    <img src="https://img.shields.io/badge/SpringBoot-800080?style=flat-square&logo=Spring&logoColor=white"></p>
+   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/><br>
+   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
+   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
+   
+   
+</p>
