@@ -1,6 +1,6 @@
 <div align="center">
    <h1> HYEYUN <br>
-     <a href="https://velog.io/@kimhyeyun">
+     <a href="https://hyeyun.tistory.com/#">
          <img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white&link=https://www.instagram.com/potato_yunn/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
       </a>
