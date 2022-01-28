@@ -12,7 +12,7 @@
    <img src="https://user-images.githubusercontent.com/50236501/133087387-4fd8be9b-189a-4fee-8ef2-08afffb3219d.gif">
 <br><br>
 </div>
-<div>
+<div align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hydy11">
   </div>
 
