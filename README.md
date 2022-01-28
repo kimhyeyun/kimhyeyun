@@ -13,7 +13,6 @@
 <br><br>
 </div>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=kimhyeyun&show_icons=true&theme=gradient">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hydy11">
   </div>
 
