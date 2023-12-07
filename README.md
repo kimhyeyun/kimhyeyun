@@ -4,7 +4,7 @@
          <img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white&link=https://hyeyun.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
       </a>
-      <a href="https://www.instagram.com/potato_yunn/">
+      <a href="https://www.instagram.com/mimemiemeee/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/mimemiemeee/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
