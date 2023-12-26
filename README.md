@@ -20,7 +20,7 @@
 
 ## ⚠️ STATUS ⚠️
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyeyun&layout=compact" style="margin-right:50px;"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hydy11" style="margin-left:50px;">
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hydy11" style="margin-left:50px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyeyun&layout=compact" style="margin-right:50px;"> 
 </div>
 
 
